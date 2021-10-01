@@ -17,4 +17,4 @@
       * Multiple Security Layers.
 
 ## * ScreenShots:-
-![Image of DashBoard of JPDB](Screenshot 2021-10-01 141237)
+![Image of DashBoard of JPDB](https://github.com/Aditya-creator323/JsonPowerDB/blob/main/WebFormExample/images/Screenshot%202021-10-01%20141237.png)

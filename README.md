@@ -18,4 +18,4 @@
 
 ## * ScreenShots:-
       * Dashboard of JsonPowerDB:-
-        ![Image of DashBoard of JPDB](Screenshot 2021-10-01 141237)
+        * ![Image of DashBoard of JPDB](Screenshot 2021-10-01 141237)
